@@ -1,3 +1,3 @@
-export {default as forceUpdate}  from './hooks/force_update';
+export {default as useForceUpdate}  from './hooks/force_update';
 
-export {default as resetCheck} from './hooks/reset_check';
+export {default as useResetCheck} from './hooks/reset_check';

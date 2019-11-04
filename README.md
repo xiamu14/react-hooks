@@ -8,23 +8,11 @@
 
 ```bash
 npm install --save react-available-hooks
+# or
+yarn add react-available-hooks
 ```
 
 ## Usage
-
-```tsx
-import * as React from 'react'
-
-import MyComponent from 'react-available-hooks'
-
-class Example extends React.Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
-}
-```
 
 ## License
 
