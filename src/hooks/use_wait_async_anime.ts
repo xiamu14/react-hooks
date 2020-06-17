@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
  * @description 等待异步事件反馈的动画 hook
  * @param delay 动画延迟时间, 单位 秒
  * @param cycle 动画周期，单位 秒
+ * @description 状态描述图 https://gitmind.com/app/flowchart/60c363951
  */
 export default function useWaitAsyncAnime(delay: number, cycle: number) {
   // 预启动动画标识
