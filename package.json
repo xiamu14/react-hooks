@@ -4,7 +4,7 @@
   "description": "",
   "author": "xiamu14",
   "license": "MIT",
-  "repository": "xiamu14/react-available-hooks",
+  "repository": "xiamu14/react-hooks",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
